@@ -1,0 +1,182 @@
+
+
+.jumbotron {
+    background-image: url("first.jpg"); 
+    height: 700px;
+
+    width: 100%;
+    background-repeat: no-repeat;
+
+    background-position: center center;
+    background-attachment: fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.cent {
+	margin-top : 140px;
+	color :#B7950B   ;
+	}
+
+.part2 {
+	margin : 50px;
+}
+
+.img1 { 
+	float : right;
+	margin-top : 35px;
+	width : 90%;
+	height : 135%;
+}
+
+.box1 {
+	margin-left : -10px;
+	
+	width : 110%;
+	height : 150px;
+border-radius : 3px;
+background-color : #F5F5F5;
+border-left : 5px solid #E8E8E8;
+	
+}
+
+.box1 a {
+	color : orange;
+	
+}
+
+.boxtext {
+	padding : 20px;
+	color: black;
+}
+
+.img2 { 
+	float : left;
+	margin-top : 35px;
+	margin-left : -30px;
+	width : 700px;
+	height : 1000px;
+	padding-left : 0px;
+}
+
+.img3 { 
+	float : right;
+	margin-top : 35px;
+	width : 90%;
+	height : 135%;
+}
+
+.img4 { 
+	float : left;
+	margin-top : 35px;
+	margin-left : 0px;
+	width : 650px;
+	height : 1000px;
+	padding-left : 0px;
+}
+
+.myid {
+	background-color : #F5F5F5;
+	height: 150%;
+}
+
+
+
+.butt {
+	color:red; 
+	border : 2px solid red; 
+	padding : 0px 30px 0px 30px;
+}
+
+
+
+.coros {
+	font-size:20px;
+}
+
+
+.ima {
+    background-image: url("image1.jpg"); 
+    height: 350px;
+	
+    width: 100%;
+    background-repeat: no-repeat;
+
+  }
+  
+.last {
+	background-color : #253340;
+	height: 110%;
+}
+ 
+.data dd {
+	 line-height: 2.5;
+}
+
+
+.list{
+	list-style-type:none;
+	
+}
+.list li{
+	padding:10px;
+	float : left;
+}
+.list li a div {
+	display:inline-block;
+	padding :15px;
+	background: url('social.png') no-repeat;
+}
+.list li a div.twitter {
+    background-position: -72px -18px;
+}
+	.list li a div.facebook {
+	    background-position: -25px -17px;;
+	}
+
+	.list li a div.google {
+	    background-position: -167px -19px;
+	}
+	.list li a div.linkedin {
+	    background-position: -119px -16px;
+	}
+	.list li a div.network {
+	    background-position: -261px -18px;
+	}
+
+#buttonlast {
+	width : 250px;
+	background-color : #253340;
+	border : 1px solid white; 
+	text-align : left; 
+	margin : 8px 0px 8px 0px;
+	color : gray;
+	font-size : 110%;
+	
+}
+	
+.contact {
+	
+	color : gray; 
+	line-height : 1.5;
+}
+
+#twit {
+	padding:2px 5px 2px 5px; 
+	font-size : 11px;
+}
+
+form {
+	width : 200px;
+	color: white;
+}
+
+
+footer {
+	background-color : black;
+	padding : 6px;
+}
